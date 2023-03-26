@@ -1,0 +1,39 @@
+body{
+    background-color: #a8763e; 
+    color: #0d1010;
+  }
+  
+  img{
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .header{
+    text-align: center;
+    background-color: #FE5E41;
+    padding: 20px;
+  }
+  
+  .content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .left{
+    background-color: #fdfefd;
+    display: inline-block;
+    width: 65%;
+    padding: 1%;
+  }
+  
+  .right{
+    background-color: #281e16;
+    display: inline-block;
+    width: 25%;
+    color: #fdfefd;
+    position: absolute;
+    margin-left: 2%;
+    padding: 1%;
+  }
