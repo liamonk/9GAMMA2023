@@ -29,11 +29,22 @@ body{
   }
   
   .right{
-    background-color: #281e16;
+    background-color: #F3C178;
     display: inline-block;
     width: 25%;
     color: #fdfefd;
     position: absolute;
     margin-left: 2%;
     padding: 1%;
+  }
+  
+  .pizzaRecipe{
+    background-color: #281e16;
+    padding: 1%;
+  }
+  
+  .otherRecipes{
+    background-color: #281e16;
+    padding: 1%;
+    margin-top: 1%;
   }
