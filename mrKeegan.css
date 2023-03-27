@@ -1,8 +1,8 @@
 body{
-    background-color: #B2A4FF; 
+    background-color: #a8763e; 
     color: #0d1010;
   }
-
+  
   img{
     display: block;
     width: 80%;
@@ -12,7 +12,7 @@ body{
   
   .header{
     text-align: center;
-    background-color: #FFB4B4;
+    background-color: #FE5E41;
     display: inline-block;
     width: 100%;
     margin: auto;
@@ -24,28 +24,29 @@ body{
   }
   
   .left{
-    background-color: #FFDEB4;
+    background-color: #fdfefd;
     display: inline-block;
     width: 65%;
     padding: 1%;
   }
   
   .right{
-    background-color: #FDF7C3;
+    background-color: #F3C178;
     display: inline-block;
     width: 25%;
+    color: #fdfefd;
     position: absolute;
     margin-left: 2%;
     padding: 1%;
   }
   
   .pizzaRecipe{
-    background-color: #FFDEB4;
+    background-color: #281e16;
     padding: 1%;
   }
   
   .otherRecipes{
-    background-color: #FFDEB4;
+    background-color: #281e16;
     padding: 1%;
     margin-top: 1%;
   }
@@ -59,15 +60,11 @@ body{
   } 
 
   a:link, a:visited {
-    color: blue;
+    color: red;
     text-decoration: underline;
     cursor: auto;
   }
   
   a:link:active, a:visited:active {
-    color: chartreuse;
-  }
-
-  h2, h3{
-    text-decoration-line: underline ;
+    color: yellow;
   }
