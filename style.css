@@ -13,7 +13,9 @@ body{
   .header{
     text-align: center;
     background-color: #FE5E41;
-    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    margin: auto;
   }
   
   .content{
@@ -51,7 +53,18 @@ body{
 
   .col{
     display: inline-block;
-    width: 45%;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
+    position: relative;
+  } 
+
+  a:link, a:visited {
+    color: red;
+    text-decoration: underline;
+    cursor: auto;
+  }
+  
+  a:link:active, a:visited:active {
+    color: yellow;
   }
