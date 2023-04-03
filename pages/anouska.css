@@ -1,0 +1,22 @@
+body{
+    background-color:#ffdead;
+   
+  }
+  
+  .header{
+    background-color:#dda0dd;
+      text-align:center;
+    font-size: 30px;
+  }
+  .content{
+    background-color:#dda0dd;
+    font-size: 20px;
+   
+  }
+  
+  img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+      width: 50%;
+  }

@@ -1,0 +1,20 @@
+body{
+    background-color:#FFFACD
+  }
+  
+  .header{
+    background-color:#FFB6C1;
+    text-align: center;
+  }
+  
+  .content{
+    background-color: #7FFFD4;
+    padding: 5px;
+  }
+  
+  img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+  }

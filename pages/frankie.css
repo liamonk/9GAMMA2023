@@ -1,0 +1,19 @@
+body{
+    background:crimson
+  }
+  
+  .header{
+    background-color:#FFF8DC;
+    text-align:center;
+  }
+     
+  .content{
+    background-color:#A52A2A;
+  padding: 5px;
+  }
+  img{
+   display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 25%
+  }
